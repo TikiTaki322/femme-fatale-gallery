@@ -7,7 +7,9 @@
 - **[Overview](https://github.com/TikiTaki322/femme-fatale-gallery#overview)**
 
 ## General information
-Femme Fatale Gallery is a web application dedicated to showcasing women from various fields, such as actresses, singers etc. The project was created specifically to gain experience working with the Django framework and experience deploying the application on the server.
+The project was created for exploring Django workflow and mastering the deployment process.
+Femme Fatale Gallery is a CRUD web-app that demonstrates articles about famous women from various domains, however it can be used to host any type of content.
+
 
 ## Technologies
 #### The technologies used in this project include:
